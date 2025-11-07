@@ -1,0 +1,23 @@
+{
+  "طب": [
+    {
+      "name": "MacBook Air M2",
+      "description": "خفيف الوزن، بطارية طويلة، مثالي لتطبيقات الطب وعرض الصور الطبية.",
+      "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8"
+    }
+  ],
+  "هندسة": [
+    {
+      "name": "Dell XPS 15",
+      "description": "قوي لتحليل النماذج ثلاثية الأبعاد وبرامج التصميم الهندسي.",
+      "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8"
+    }
+  ],
+  "برمجة": [
+    {
+      "name": "Lenovo ThinkPad X1 Carbon",
+      "description": "أداء ثابت، لوحة مفاتيح مريحة للمبرمجين.",
+      "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c"
+    }
+  ]
+}
